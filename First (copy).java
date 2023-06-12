@@ -2,6 +2,6 @@ class First
 {
 public static void main(String[] args)
 {
-system.out.println("vanakam");
+System.out.println("vanakkam");
 }
 }
